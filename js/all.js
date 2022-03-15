@@ -1,3 +1,4 @@
+/* global axios */
 const url = 'https://hexschool.github.io/js-filter-data/data.json';
 let data;
 const table = document.querySelector('.table-content');
